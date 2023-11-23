@@ -1,0 +1,26 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-e3b0c442.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-9f820f07.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/paypal-de10d24d.svg"
+    ],
+    "css": [
+      "assets/app-9f820f07.css"
+    ],
+    "file": "assets/app-a12ffd20.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/assets/paypal.svg": {
+    "file": "assets/paypal-de10d24d.svg",
+    "src": "resources/js/assets/paypal.svg"
+  }
+}
